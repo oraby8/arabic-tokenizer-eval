@@ -1,0 +1,7 @@
+base,variant,setting,sets_variant_better,mean_rel_bpc_change_pct,msa_rel_pct,dia_rel_pct,belebele_change_pts
+BPE,MorphBPE,equal characters (main run),22,-0.98,-1.13,-0.96,0.0
+BPE,MorphBPE,equal steps: base trained as long as the variant,0,1.78,2.14,1.72,-0.8
+BPE,MorphBPE,equal steps: variant trained as short as the base,0,1.76,2.23,1.69,0.1
+SPM-Unigram,SPM-Unigram-morph,equal characters (main run),22,-4.47,-4.76,-4.42,-0.4
+SPM-Unigram,SPM-Unigram-morph,equal steps: base trained as long as the variant,17,-1.07,-1.0,-1.08,-0.8
+SPM-Unigram,SPM-Unigram-morph,equal steps: variant trained as short as the base,18,-0.64,-0.13,-0.72,-0.7

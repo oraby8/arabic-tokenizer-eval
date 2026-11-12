@@ -1,0 +1,4 @@
+spearman_charsPerTok_vs_logVocab: rho=-0.281 p=0.3106
+spearman_charsPerTok_vs_arabicShare: rho=0.829 p=0.0001
+spearman_charsPerTok_vs_arabicCount: rho=0.964 p=0.0000
+OLS chars/tok ~ log(vocab) + log(#arabic tokens): coef=[1.688, -0.265, 0.512] R2=0.945 n=15

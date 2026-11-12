@@ -1,0 +1,5 @@
+{
+ "run": "scratch-MorphBPE",
+ "tok": "MorphBPE",
+ "n_docs": 69283
+}

@@ -1,0 +1,7 @@
+mode,base,variant,sets_variant_better,sets,mean_rel_bpc_change_pct,msa_rel_pct,dia_rel_pct,belebele_change_pts
+scratch,BPE,MorphBPE,22,22,-0.98,-1.13,-0.96,0.0
+scratch,SPM-Unigram,SPM-Unigram-morph,22,22,-4.47,-4.76,-4.42,-0.4
+scratch,BPE,SPM-Unigram,22,22,-2.55,-3.18,-2.45,0.9
+transplant,BPE,MorphBPE,20,22,-0.83,-0.87,-0.83,-0.9
+transplant,SPM-Unigram,SPM-Unigram-morph,21,22,-3.33,-3.3,-3.33,1.2
+transplant,BPE,SPM-Unigram,17,22,-0.79,-1.06,-0.74,1.1

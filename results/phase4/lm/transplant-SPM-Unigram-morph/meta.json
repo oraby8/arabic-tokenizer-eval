@@ -1,0 +1,5 @@
+{
+ "run": "transplant-SPM-Unigram-morph",
+ "tok": "SPM-Unigram-morph",
+ "n_docs": 69283
+}
